@@ -42,7 +42,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>com.example.SimpleJava</mainClass>
+                        <mainClass>com.example.SimpleJava.App</mainClass>
                     </manifest>
                 </archive>
             </configuration>
